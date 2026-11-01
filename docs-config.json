@@ -1,5 +1,8 @@
 {
     "architecture": [
         "CleanArchitecture"
+    ],
+        "security": [
+        "DesigningSecureSoftware"
     ]
 }
